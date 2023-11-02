@@ -1,0 +1,33 @@
+\contentsline {section}{\numberline {1}List of Competitions}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}CyberPatriot}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}CyberStart America}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Cyber Skyline's National Cyber League (NCL)}{3}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Lockheed Martin's CyberQuest}{4}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}US Cyber Challenge: Cyber Quests}{4}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Technology Student Association's Cybersecurity Event}{5}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}DiceCTF}{5}{subsection.1.7}%
+\contentsline {subsection}{\numberline {1.8}ASIS CTF}{5}{subsection.1.8}%
+\contentsline {subsection}{\numberline {1.9}ÅngstromCTF}{5}{subsection.1.9}%
+\contentsline {subsection}{\numberline {1.10}CSAW CTF}{5}{subsection.1.10}%
+\contentsline {subsection}{\numberline {1.11}TJCTF}{6}{subsection.1.11}%
+\contentsline {subsection}{\numberline {1.12}LA CTF}{6}{subsection.1.12}%
+\contentsline {section}{\numberline {2}CyberDragons Syllabus}{7}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Syllabus Research}{7}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Anish Goyal's Research}{7}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Bibek Bhattarai's Research}{8}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Andrew Zeng's Research}{8}{subsubsection.2.1.3}%
+\contentsline {section}{\numberline {3}CyberPatriot Applications}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}The Main Application}{9}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Team Phi Application}{10}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}CyberPatriot Team Leader Application}{10}{subsection.3.3}%
+\contentsline {section}{\numberline {4}CyberPatriot Team Distribution}{11}{section.4}%
+\contentsline {section}{\numberline {5}A New Approach to Teaching}{11}{section.5}%
+\contentsline {section}{\numberline {6}Discord Server Revamp}{12}{section.6}%
+\contentsline {section}{\numberline {7}CyberDragons-Curated Competitions}{13}{section.7}%
+\contentsline {subsection}{\numberline {7.1}CyberPatriot Mock Competition}{13}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}In-House Infosecurity Competition}{13}{subsection.7.2}%
+\contentsline {section}{\numberline {8}Cisco Packet Tracer}{13}{section.8}%
+\contentsline {section}{\numberline {9}picoCTF}{14}{section.9}%
+\contentsline {section}{\numberline {10}Budgeting}{15}{section.10}%
+\contentsline {section}{\numberline {11}Conclusion}{15}{section.11}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
